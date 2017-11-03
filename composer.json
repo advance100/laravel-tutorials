@@ -1,0 +1,14 @@
+{
+    "name": "vagrant/laravel-tutorials",
+    "description": "laravel由浅入深系列教程",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {},
+     "license": "MIT",
+    "authors": [
+        {
+            "name": "王前进",
+            "email": "768287201@qq.com"
+        }
+    ]
+}
