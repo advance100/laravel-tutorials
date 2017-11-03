@@ -1,5 +1,5 @@
 {
-    "name": "vagrant/laravel-tutorials",
+    "name": "advance100/laravel-tutorials",
     "description": "laravel由浅入深系列教程",
     "type": "library",
     "minimum-stability": "dev",
@@ -11,7 +11,7 @@
   },
     "authors": [
         {
-            "name": "王前进",
+            "name": "daqi",
             "email": "768287201@qq.com"
         }
     ]
