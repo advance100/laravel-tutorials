@@ -8,7 +8,7 @@
      "require": {
       "php": ">=7.0.0",
       "laravel/framework": "5.5.*"
-    },
+      },
     "autoload": {
           "psr-4": {
               "Advance100\\Tutorial\\": "/"
