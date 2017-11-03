@@ -5,6 +5,10 @@
     "minimum-stability": "dev",
     "require": {},
      "license": "MIT",
+     "require": {
+      "php": ">=7.0.0",
+      "laravel/framework": "5.5.*",
+  },
     "authors": [
         {
             "name": "王前进",
